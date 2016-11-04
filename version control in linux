@@ -1,4 +1,4 @@
 1. Install specific version of Python using Anaconda:
-  conda install foo=2.3.4  ---> conda install Python=2.3.4 or conda install Python=3.5.2
+  conda install foo=2.3.4  ---> conda install Python=2.7.12 or conda install Python=3.5.2
   
   For more info: https://docs.continuum.io/anaconda/faq#how-do-i-switch-an-environment-from-python-2-to-python-3
